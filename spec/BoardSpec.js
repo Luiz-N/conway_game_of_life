@@ -95,5 +95,3 @@ describe("Board", function() {
     });
   });
 });
-
-
