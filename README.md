@@ -13,7 +13,7 @@ Currently for this version a 20x20 grid is created with each cell randomally ass
 
 1. Clone the repo down
 2. Make make sure you have node installed
-3. run 'node lib/Controller.js'
+3. run `node lib/Controller.js`
 
 ### Run the tests
 
