@@ -1,0 +1,63 @@
+.board {
+	text-align: center;
+}
+
+.row {
+	height: 7px;
+}
+
+.counter {
+	background-color: white;
+	opacity: 1;
+}
+
+span {
+	width: 7px;
+	height: 7px;
+	display: inline-block;
+	/*border: 5px solid lightgrey;*/
+	background-color: darkgreen;
+	border-radius: 10px;
+	opacity: 0;
+}
+
+.was-alive {
+	opacity: .2;
+}
+
+.alive{
+	opacity: 1;
+}
+
+
+/*.n8 {
+	opacity: 1;
+}
+
+.n7 {
+	opacity: .85;
+}
+
+.n6 {
+	opacity: .70;
+}
+
+.n5 {
+	opacity: .55;
+}
+
+.n4 {
+	opacity: .40;
+}
+
+.n3 {
+	opacity: .25;
+}
+
+.n2 {
+	opacity: .10;
+}
+
+.n1 {
+	opacity: .05;
+}*/
