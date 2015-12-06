@@ -197,7 +197,7 @@ var Cell = React.createClass({
     if (cell.state) {
       cellNode.classList.add('alive');
       cellNode.classList.add('was-alive');
-    } else if (!cell.state) {
+    } else {
       cellNode.classList.remove('alive');
     }
   },
